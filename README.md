@@ -1,2 +1,2 @@
 # MachineLearning
-Important lectures / articles notes for my *personal needs only.*
+Important lecture / article notes for my *personal needs only.*
