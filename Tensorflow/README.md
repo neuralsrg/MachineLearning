@@ -9,3 +9,5 @@ Notebook contains:
 Notebook contains:
 * h5py brief dataset loading tutorial 
 * neural network manual implementation with Tensorflow
+* tf.keras.metrics.CategoricalAccuracy(), tf.keras.losses.categorical_crossentropy
+* saving / loading pretrained model
