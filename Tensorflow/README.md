@@ -15,3 +15,13 @@ Notebook contains:
 Notebook contains:
 * the same neural net (as in [hand_signs]manual) implementation using tf
 * saving / loading model
+
+### [tf]some_nets
+Notebook contains:
+* Pandas data hangling & sklearn column transformer
+* Linear regression in tf
+* Binary Classification 
+* Plotting decision-boundaries
+* Learning rate scheduler
+* Multiclass classification problem (on MNIST)
+* Confusion matrix
