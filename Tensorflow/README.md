@@ -10,10 +10,11 @@ Notebook contains:
 * h5py brief dataset loading tutorial 
 * neural network manual implementation with Tensorflow
 * tf.keras.metrics.CategoricalAccuracy(), tf.keras.losses.categorical_crossentropy
+* the same model using tensorflow 
 
 ### [hand_signs]tf
 Notebook contains:
-* the same neural net (as in [hand_signs]manual) implementation using tf
+* gradient checking for manual and tf implementations (bug fix)
 * saving / loading model
 
 ### [tf]some_nets
