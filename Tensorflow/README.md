@@ -26,3 +26,8 @@ Notebook contains:
 * Learning rate scheduler
 * Multiclass classification problem (on MNIST)
 * Confusion matrix
+
+### [cnn]tf
+* CNN model in tensorflow 
+* manual training with layers' outputs caching
+* Tensorboard features
