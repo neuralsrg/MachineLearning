@@ -31,3 +31,8 @@ Notebook contains:
 * CNN model in tensorflow 
 * manual training with layers' outputs caching
 * Tensorboard features
+
+### [tf]resnet_50
+* model creating with model 
+* residual blocks in tf with tf.keras.layers.Add()
+* cv2 tricks for scaling images
