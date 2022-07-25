@@ -44,3 +44,7 @@ Notebook contains:
 * downloading pretrained model
 * fine-tuning top level layers of the pretrained model AFTER training classification head
 (by setting `initial_epoch` parameter of `fit()`)
+
+### [u_net]semantic_segmentation
+* `kaggle` download API
+* `image preprocessing` in tf
