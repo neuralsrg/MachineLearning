@@ -3,13 +3,13 @@
 ### Settings and Tensors
 Notebook contains:
 * tf tensors; built-in operations 
-* Google Colab settings (GPU etc.)
+* `Google Colab` settings (GPU etc.)
 
 ### [hand_signs]manual
 Notebook contains:
-* h5py brief dataset loading tutorial 
+* `h5py` brief dataset loading tutorial 
 * neural network manual implementation with Tensorflow
-* tf.keras.metrics.CategoricalAccuracy(), tf.keras.losses.categorical_crossentropy
+* `tf.keras.metrics.CategoricalAccuracy()`, `tf.keras.losses.categorical_crossentropy`
 * the same model using tensorflow 
 
 ### [hand_signs]tf
@@ -19,10 +19,10 @@ Notebook contains:
 
 ### [tf]some_nets
 Notebook contains:
-* Pandas data hangling & sklearn column transformer
+* `Pandas` data hangling & `sklearn column transformer`
 * Linear regression in tf
 * Binary Classification 
-* Plotting decision-boundaries
+* Plotting `decision-boundaries`
 * Learning rate scheduler
 * Multiclass classification problem (on MNIST)
 * Confusion matrix
@@ -33,9 +33,9 @@ Notebook contains:
 * Tensorboard features
 
 ### [tf]resnet_50
-* model creating with model 
-* residual blocks in tf with tf.keras.layers.Add()
-* cv2 tricks for scaling images
+* model creating with `model` 
+* residual blocks in tf with `tf.keras.layers.Add()`
+* `cv2` tricks for scaling images
 
 ### [tutorial] Transfer learning & fine tuning 
 * downloading data with `tf.keras.utils.get_file`
@@ -48,3 +48,6 @@ Notebook contains:
 ### [u_net]semantic_segmentation
 * `kaggle` download API
 * `image preprocessing` in tf
+
+### neural_style_transfer
+* tracking each layer outputs with `tf.keras.Model([input], outputs)`
